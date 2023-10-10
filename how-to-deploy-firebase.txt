@@ -1,0 +1,8 @@
+0) register on https://firebase.google.com/
+1) npm install firebase or npm install -g firebase-tools
+2) firebase login or firebase login --reauth
+3) npm run build
+4) firebase init
+Choose option Hosting: Configure and deploy Firebase Hosting sites.
+public director: build
+5) firebase deploy
