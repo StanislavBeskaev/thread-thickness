@@ -16,37 +16,42 @@
 }
 
 .thread-container {
-  padding: 10px;
+  padding: 0.5em;
 }
 
 .thread-input {
-  font-size: 25px;
-  padding: 5px;
+  font-size: 2em;
+  padding: 0.25em;
+  border: 1px black solid;
 }
 
 .thread-amount {
-  width: 55px;
+  width: 1.7em;
 }
 
 .thread-thickness {
-  width: 95px;
+  width: 3.4em;
 }
 
 .btn {
-  width: 40px;
-  height: 40px;
-  font-size: 30px;
-  border-radius: 5px;
+  cursor: pointer;
+  width: 1.75em;
+  height: 1.75em;
+  font-weight: bold;
+  font-size: 1.75em;
+  border-radius: 25%;
+  padding: 0;
+  color: white;
 }
 
 .add-thread {
+  margin-top: 0.5em;
   background-color: #14a114;
-  color: white;
 }
 
 .delete-thread {
+  margin-left: 0.4em;
   background-color: red;
-  color: white;
 }
 
 .warning {
